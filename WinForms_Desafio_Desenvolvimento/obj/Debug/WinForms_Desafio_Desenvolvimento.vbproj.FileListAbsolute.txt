@@ -1,0 +1,150 @@
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.AssemblyReference.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosEditar.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosListar.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosRelatorio.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosListar.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosRelatorio.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmPrincipal.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.Resources.resources
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.GenerateResource.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.CoreCompileInputs.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Dados\DesafioDB.db
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\SQLite.Interop.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.exe.config
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.exe
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.xml
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\System.Data.SQLite.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\EnvDTE.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\stdole.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.CopyComplete
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.exe
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.xml
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosEditar.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Dados\DesafioDB.db
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\SQLite.Interop.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.exe.config
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.exe
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.pdb
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\WinForms_Desafio_Desenvolvimento.xml
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\EnvDTE.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\stdole.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.AssemblyReference.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosEditar.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosListar.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmChamadosRelatorio.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosEditar.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosListar.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmDepartamentosRelatorio.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.frmPrincipal.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.Resources.resources
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.GenerateResource.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.CoreCompileInputs.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.vbproj.CopyComplete
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.exe
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.xml
+C:\Users\Sale\Desktop\JUAN ESTUDOS\Winforms\WinForms_Desafio_Desenvolvimento\obj\Debug\WinForms_Desafio_Desenvolvimento.pdb

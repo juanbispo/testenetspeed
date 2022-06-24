@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WinForms_Desafio_Desenvolvimento
+</name>
+</assembly>
+<members>
+<member name="T:WinForms_Desafio_Desenvolvimento.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.chamados">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.cross">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.departamentos">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.disk">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.document">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.door_open_in">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.folder_horizontal_open">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.Netspeed">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.printer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WinForms_Desafio_Desenvolvimento.My.Resources.Resources.TitleBar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsChamados">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsChamados._TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsChamados._TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsChamados._TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsDepartamentos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsDepartamentos._TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsDepartamentos._TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WinForms_Desafio_Desenvolvimento.dsDepartamentos._TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
